@@ -1,0 +1,12 @@
+     _______. __   _______   _______ .______          ___       __
+    /       ||  | |       \ |   ____||   _  \        /   \     |  |
+   |   (----`|  | |  .--.  ||  |__   |  |_)  |      /  ^  \    |  |
+    \   \    |  | |  |  |  ||   __|  |      /      /  /_\  \   |  |
+.----)   |   |  | |  '--'  ||  |____ |  |\  \----./  _____  \  |  `----.
+|_______/    |__| |_______/ |_______|| _| `._____/__/     \__\ |_______|
+
+${application.title}   ${application.version}
+Powered by Spring Boot ${spring-boot.version}
+
+SIDERAL  ===> Just Start, Just Bloom, Just Do It !!!
+${application.web.page}
