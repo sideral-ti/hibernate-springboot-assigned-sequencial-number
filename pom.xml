@@ -10,10 +10,10 @@
 	</parent>
 
 	<groupId>cl.sideralti</groupId>
-	<artifactId>hibernate-springboot-assigned-sequencial-number</artifactId>
+	<artifactId>practice-hibernate-jpa-assigned-sequencial-number</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hibernate-springboot-assigned-sequencial-number</name>
-	<description>Descriptions</description>
+	<name>practice-hibernate-jpa-assigned-sequencial-number</name>
+	<description>practice-hibernate-jpa-assigned-sequencial-number</description>
 	<packaging>jar</packaging>
 
 	<properties>

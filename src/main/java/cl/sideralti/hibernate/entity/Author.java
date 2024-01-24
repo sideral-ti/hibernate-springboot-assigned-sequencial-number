@@ -13,7 +13,6 @@ public class Author implements Serializable {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-
     private int age;
     private String name;
     private String genre;
