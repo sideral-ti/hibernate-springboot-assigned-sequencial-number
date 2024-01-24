@@ -1,8 +1,11 @@
 # Assigned sequencial number
 
+# Deploy: [hibernate002.sideral.website](www.hibernate002.sideral.website)
+
+## General
 * [practice-hibernate-jpa-assigned-sequencial-number](https://github.com/sideral-ti/practice-hibernate-jpa-assigned-sequencial-number/tree/main)
-* Branch: main
-* Branch: dev
+* Branch: main 
+* Branch: dev 
 
 
 ### Technologies
@@ -15,7 +18,11 @@
 * Spring Validation
 * Thymeleaf
 
-
+### Files
+* import.sql
+* select.sql
+* banner.txt
+* DATABASE Name: hibernate-practice002
 
 
 
@@ -60,3 +67,7 @@
     </dependency>
 </dependencies>
 ```
+
+
+### Endpoints (Postman)
+* 
